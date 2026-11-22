@@ -36,9 +36,11 @@ MAKEFUN_OUTPUT_DIR=/tmp/out python3 -P -s main.py
 
 ## Badges
 
-![competition](https://make.fun/badge/news-image-20261122.svg)
-![rank](https://make.fun/badge/news-image-20261122/semutadv/news-image-20261122-entry/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/semutadv/news-image-20261122-entry/reward.svg)
+[![competition](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/semutadv/news-image-20261122-entry/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/semutadv/news-image-20261122-entry/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
+See the bounty page: [news-image-20261122 on make.fun](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122).
 
 ## License
 
